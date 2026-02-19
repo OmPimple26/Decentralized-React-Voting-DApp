@@ -100,9 +100,11 @@ npx hardhat run scripts/deploy.js --network localhost
 ```
 
 ### 5️⃣ Start Frontend
+```
 cd frontend
 npm install
 npm start
+```
 
 ---
 
