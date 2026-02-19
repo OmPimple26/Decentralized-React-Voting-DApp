@@ -1,13 +1,2 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+# Decentralized-React-Voting-DApp
+A secure and transparent blockchain-based voting application built with React, Solidity, Hardhat, and Ethers.js ⚡. Users connect via MetaMask 🔐 to cast votes securely on the Ethereum network. Prevents double voting, ensures fairness, and displays real-time results 📊 — showcasing the power of Web3 and decentralized governance 🚀.
