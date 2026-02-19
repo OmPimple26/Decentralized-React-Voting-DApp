@@ -107,10 +107,11 @@ npm start
 ---
 
 ## 🖼️ Screenshots
-
 ### 🗳️ Voting Interface
+<img width="1920" height="860" alt="React Voting Application Blockchain Technology" src="https://github.com/user-attachments/assets/348844e1-308e-406f-ab8c-c50c48bd032b" />
 
 ### 📊 Results Page
+<img width="1920" height="864" alt="React Voting Application Result Blockchain Technology" src="https://github.com/user-attachments/assets/05259784-3423-4241-a708-a175dccbbb12" />
 
 ---
 
