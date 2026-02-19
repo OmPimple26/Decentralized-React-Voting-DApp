@@ -1,0 +1,40 @@
+.finished {
+  text-align: center;
+  padding: 20px;
+  background: #111;
+  color: #fff;
+  border-radius: 10px;
+  margin: 20px auto;
+  width: 80%;
+  max-width: 600px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+
+.finished h2 {
+  color: #ffcc00;
+}
+
+.finished h3 {
+  margin-top: 15px;
+  color: #00e676;
+}
+
+.finished ul {
+  list-style: none;
+  padding: 0;
+}
+
+.finished li {
+  padding: 8px;
+  border-bottom: 1px solid #444;
+}
+
+.finished .highlight {
+  font-weight: bold;
+  color: #ff4081;
+}
+
+.winners li {
+  font-size: 1.2em;
+  color: #ffeb3b;
+}

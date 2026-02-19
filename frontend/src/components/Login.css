@@ -1,0 +1,13 @@
+.login {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.login h2 {
+  color: #2c3e50;
+}
+
+.login p {
+  font-size: 18px;
+  color: #555;
+}

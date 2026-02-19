@@ -1,0 +1,56 @@
+.connected-container {
+  background: #1a1a1a;
+  color: white;
+  padding: 20px;
+  max-width: 500px;
+  margin: 40px auto;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px #000;
+}
+
+.connected-container h2 {
+  color: #00ff99;
+}
+
+.connected-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.connected-container li {
+  padding: 5px 0;
+}
+
+.vote-input {
+  margin-top: 15px;
+}
+
+.vote-input input {
+  padding: 8px;
+  width: 150px;
+  border-radius: 5px;
+  border: none;
+  margin-right: 10px;
+}
+
+.vote-input button {
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #00ff99;
+  color: #000;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.vote-input button:hover {
+  background-color: #00cc7a;
+}
+
+.already-voted {
+  color: #ff4081;
+  font-weight: bold;
+  margin-top: 10px;
+}
